@@ -712,12 +712,12 @@ section.lazy-placeholder:after {
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
-  background: #ffffff;
+  background: #27b3a3;
   transition: none;
   min-height: 77px;
 }
 .cid-qTkzRZLJNu .navbar-dropdown.bg-color.transparent.opened {
-  background: #ffffff;
+  background: #27b3a3;
 }
 .cid-qTkzRZLJNu a {
   font-style: normal;
@@ -801,7 +801,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-qTkzRZLJNu .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #27b3a3;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1100,19 +1100,19 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-s6exIdWdy0 {
-  padding-top: 105px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-image: url("../../../assets/images/interior-4k-2000x1330.jpg");
 }
 .cid-s6exIdWdy0 P {
   color: #767676;
 }
 .cid-s6exIdWdy0 H1 {
-  color: #27b3a3;
+  color: #ffffff;
 }
 .cid-s6exIdWdy0 .mbr-text,
 .cid-s6exIdWdy0 .mbr-section-btn {
-  color: #232323;
+  color: #ffffff;
 }
 .cid-s6exuU4N66 {
   padding-top: 45px;
